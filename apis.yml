@@ -1,4 +1,6 @@
 aid: crown-holdings
+tags:
+  - Fortune 500
 url: https://raw.githubusercontent.com/api-evangelist/crown-holdings/refs/heads/main/apis.yml
 name: Crown Holdings
 type: Index

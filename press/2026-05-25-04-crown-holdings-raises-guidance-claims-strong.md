@@ -1,7 +1,9 @@
 ---
 title: Crown Holdings Raises Guidance, Claims Strong ...
 url: https://www.wsj.com/business/earnings/crown-holdings-raises-guidance-claims-strong-performance-495f4a2a
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Crown Holdings" press release artificial intelligence'
 position: 4
 source: serpapi-google
